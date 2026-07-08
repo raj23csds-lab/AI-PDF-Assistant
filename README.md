@@ -6,26 +6,9 @@ An AI-powered PDF chatbot that allows users to upload one or multiple PDF docume
 
 ## 🚀 Live Demo
 
-🔗 https://YOUR-STREAMLIT-LINK.streamlit.app
+🔗https://smartpdf-assistant.streamlit.app/
 
 ---
-
-## 📸 Screenshots
-
-### Home Page
-
-(Add Screenshot)
-
-### Chat Interface
-
-(Add Screenshot)
-
-### Multi PDF Upload
-
-(Add Screenshot)
-
----
-
 ## ✨ Features
 
 - 📄 Upload multiple PDF files
@@ -200,11 +183,7 @@ Computer Science Engineering (Data Science)
 GitHub:
 https://github.com/raj23csds-lab
 
-LinkedIn:
-(Add LinkedIn URL)
 
 ---
 
-## ⭐ Support
 
-If you found this project useful, please consider giving it a ⭐ on GitHub.
