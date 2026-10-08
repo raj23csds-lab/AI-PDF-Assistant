@@ -1,7 +1,7 @@
 # 🤖 AI PDF Assistant using RAG
 
 An AI-powered PDF chatbot that allows users to upload one or multiple PDF documents and ask questions in natural language. The application uses Retrieval-Augmented Generation (RAG) with Google Gemini and FAISS to provide accurate, context-aware answers from uploaded documents.
- 
+
 ---
 
 ## 🚀 Live Demo
